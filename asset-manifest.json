@@ -6,10 +6,10 @@
     "static/js/1.2af5efec.chunk.js": "/marvel_app/static/js/1.2af5efec.chunk.js",
     "static/js/1.2af5efec.chunk.js.map": "/marvel_app/static/js/1.2af5efec.chunk.js.map",
     "main.css": "/marvel_app/static/css/main.c8ff5fe2.chunk.css",
-    "main.js": "/marvel_app/static/js/main.3dbf2ffd.chunk.js",
-    "main.js.map": "/marvel_app/static/js/main.3dbf2ffd.chunk.js.map",
-    "runtime-main.js": "/marvel_app/static/js/runtime-main.95a3048f.js",
-    "runtime-main.js.map": "/marvel_app/static/js/runtime-main.95a3048f.js.map",
+    "main.js": "/marvel_app/static/js/main.e2c6e7f6.chunk.js",
+    "main.js.map": "/marvel_app/static/js/main.e2c6e7f6.chunk.js.map",
+    "runtime-main.js": "/marvel_app/static/js/runtime-main.2c061b61.js",
+    "runtime-main.js.map": "/marvel_app/static/js/runtime-main.2c061b61.js.map",
     "static/js/4.e6654ee7.chunk.js": "/marvel_app/static/js/4.e6654ee7.chunk.js",
     "static/js/4.e6654ee7.chunk.js.map": "/marvel_app/static/js/4.e6654ee7.chunk.js.map",
     "static/js/5.e1606814.chunk.js": "/marvel_app/static/js/5.e1606814.chunk.js",
@@ -26,8 +26,8 @@
     "static/css/9.a339c389.chunk.css": "/marvel_app/static/css/9.a339c389.chunk.css",
     "static/js/9.4b19ecee.chunk.js": "/marvel_app/static/js/9.4b19ecee.chunk.js",
     "static/js/9.4b19ecee.chunk.js.map": "/marvel_app/static/js/9.4b19ecee.chunk.js.map",
-    "static/js/10.35527f27.chunk.js": "/marvel_app/static/js/10.35527f27.chunk.js",
-    "static/js/10.35527f27.chunk.js.map": "/marvel_app/static/js/10.35527f27.chunk.js.map",
+    "static/js/10.4dcaac6c.chunk.js": "/marvel_app/static/js/10.4dcaac6c.chunk.js",
+    "static/js/10.4dcaac6c.chunk.js.map": "/marvel_app/static/js/10.4dcaac6c.chunk.js.map",
     "static/js/11.e1628e19.chunk.js": "/marvel_app/static/js/11.e1628e19.chunk.js",
     "static/js/11.e1628e19.chunk.js.map": "/marvel_app/static/js/11.e1628e19.chunk.js.map",
     "index.html": "/marvel_app/index.html",
@@ -47,9 +47,9 @@
     "static/media/vision.067d4ae1.png": "/marvel_app/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.95a3048f.js",
+    "static/js/runtime-main.2c061b61.js",
     "static/js/5.e1606814.chunk.js",
     "static/css/main.c8ff5fe2.chunk.css",
-    "static/js/main.3dbf2ffd.chunk.js"
+    "static/js/main.e2c6e7f6.chunk.js"
   ]
 }
